@@ -2,9 +2,10 @@
 
 ## Software Developer | Python Developer
 
-### About Me
-Aspiring Software Developer with expertise in Python, SQL, Object-Oriented Programming, Machine Learning, and Database Management.
+📍 Chennai, Tamil Nadu, India
 
+### Professional Summary
+Software Developer with a strong foundation in Python, SQL, Object-Oriented Programming, Data Structures, and Machine Learning. Passionate about developing scalable software solutions and applying technology to solve real-world problems.
 ### Education
 - B.Tech Computer Science and Engineering
 - MBA (Information Technology) - Pursuing
